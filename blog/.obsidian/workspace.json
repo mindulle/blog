@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "a8f05b0aaefe9298",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e6bc460922378d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be9c45afe993889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-24-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a54b6c23c868c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Sync Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c276fbe3ab6e0192",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f76a6a4af9b040f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91928bf8852b4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "275572ee63dd02d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bc54d9b0803446e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc81dbf4f011593d",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c6fc3d5c8c3a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61802ab7ffbd9942",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git Sync Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d39923a794b051e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git Sync Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b038cdbfbedbc8d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b14711ec93030d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git Sync Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a54b6c23c868c36",
+  "lastOpenFiles": [
+    "2024-02-24-post.md",
+    "Git Sync Test.md",
+    "Untitled",
+    "2024-02-25-build-design-system.md"
+  ]
+}

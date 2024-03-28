@@ -1,1 +1,1 @@
-This t
+This text was tested in my android tablet.
